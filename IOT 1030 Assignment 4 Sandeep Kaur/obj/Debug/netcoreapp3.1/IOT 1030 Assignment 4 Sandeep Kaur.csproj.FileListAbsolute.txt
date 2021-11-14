@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-4-Sandeep-Kaur-\IOT 1030 Assignment 4 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Assignment 4 Sandeep Kaur.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-4-Sandeep-Kaur-\IOT 1030 Assignment 4 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Assignment 4 Sandeep Kaur.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-4-Sandeep-Kaur-\IOT 1030 Assignment 4 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Assignment 4 Sandeep Kaur.AssemblyInfo.cs
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-4-Sandeep-Kaur-\IOT 1030 Assignment 4 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Assignment 4 Sandeep Kaur.csproj.CoreCompileInputs.cache

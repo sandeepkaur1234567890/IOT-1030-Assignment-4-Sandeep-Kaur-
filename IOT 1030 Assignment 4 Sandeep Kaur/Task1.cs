@@ -38,8 +38,24 @@ namespace A4
 		/// </summary>
 		public int Compare(Card a, Card b)
 		{
-			// TODO: IMPLEMENT THIS
-			throw new NotImplementedException();
+			if (a.Suit > b.Suit)
+            {
+				return 1;
+            }
+			if (b.Suit > a.Suit)
+			{
+				return -1;
+			}
+			if (a.Value > b.Value)
+			{
+				return 1;
+			}
+			if (b.Value > a.Value)
+			{
+				return -1;
+			}
+			return 0;
+
 		}
 	}
 }

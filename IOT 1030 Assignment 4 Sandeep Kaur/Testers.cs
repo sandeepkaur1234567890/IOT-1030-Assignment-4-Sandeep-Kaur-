@@ -22,7 +22,7 @@ namespace A4
 				Console.WriteLine("\n... Sorting Cards ...\n");
 				PrintCards(cards);
 			}
-			catch (InvalidOperationException e)
+			catch (InvalidOperationException )
 			{
 				Console.WriteLine("\n*** CardComparer is not implemented correctly ***\n");
 			}
